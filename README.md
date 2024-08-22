@@ -1,5 +1,5 @@
-<h1 align="center">Oii,eu sou o Lucas</h1>
-<h3 align="center">Um iniciante de programação</h3>
+<h1 align="center">Oii, eu sou o Lucas</h1>
+<h3 align="center">Sou um iniciante de programação</h3>
 
 - Atualmente eu estudo **desenvolvimento de jogos com a Unity**
 
