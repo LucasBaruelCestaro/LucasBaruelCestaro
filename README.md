@@ -1,4 +1,5 @@
-<h2 align="left">Oii, meu nome é Lucas e eu sou um iniciante na programação</h2>
+<h2 align="left">Oii, Eu sou o Chá Verde! Prazer!</h2>
+<h2 align="left">Aqui você vai ver meu projetos sem pé nem cabeça!</h2>
 
 ###
 
