@@ -13,7 +13,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
@@ -29,16 +29,9 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/ChaVerde98/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
 
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/ChaVerde98/ChaVerde98/output/snake.svg" alt="Snake animation" />
 
 ###
