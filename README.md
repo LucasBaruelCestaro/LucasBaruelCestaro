@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/lucaixtd1/lucaixtd1/blob/main/cat-computer.gif"  />
+<img align="right" height="150" src="https://github.com/ChaVerde98/ChaVerde98/blob/main/cat-computer.gif"  />
 
 ###
 
@@ -19,10 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
   <img width="12" />
@@ -34,7 +30,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/lucaix_td/" target="_blank">
+  <a href="https://www.instagram.com/ChaVerde98/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
@@ -43,6 +39,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ChaVerde98/lucaixtd1/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ChaVerde98/ChaVerde98/output/snake.svg" alt="Snake animation" />
 
 ###
