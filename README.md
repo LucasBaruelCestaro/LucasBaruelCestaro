@@ -1,4 +1,9 @@
-<h2 align="center">Eu sou o Lucas. Esse é meu GitHub.</h2>
+<h3 align="center">Eu sou o Lucas. Esse é meu GitHub.</h3>
+
+###
+
+<h2>"Quando acordei hoje de manhã, eu sabia quem eu era, mas acho que já mudei muitas vezes desde então."</h2>
+<h1>-Alice no País das Maravilhas</h1>
 
 ###
 
