@@ -1,8 +1,8 @@
-<h2 align="left">Eu sou o Lucas. Esse é meu GitHub.</h2>
+<h2 align="center">Eu sou o Lucas. Esse é meu GitHub.</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
@@ -26,7 +26,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/316xkuy4rtovn4um7xi5rwlcyfdm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=316xkuy4rtovn4um7xi5rwlcyfdm&count=5&unique=false" alt="Spotify recently played"  />
   </a>
