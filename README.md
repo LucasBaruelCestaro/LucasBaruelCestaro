@@ -2,14 +2,14 @@
 
 ###
 
-<h4 align="center">"Quando acordei hoje de manhã, eu sabia quem eu era, mas acho que já mudei muitas vezes desde então."</h4>
-<h6 align="center">-Alice no País das Maravilhas</h6>
+<h4 align="center">"Quando acordei hoje de manhã, eu sabia quem eu era, <br>mas acho que já mudei muitas vezes desde então."</h4>
+<h6 align="center">- Alice no País das Maravilhas</h6>
 
 ---
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="37" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
   <img width="12" />
