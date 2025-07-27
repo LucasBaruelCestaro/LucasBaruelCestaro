@@ -2,8 +2,6 @@
 
 ###
 
-<h4 align="center">"Quando acordei hoje de manhã, eu sabia quem eu era, <br>mas acho que já mudei muitas vezes desde então."</h4>
-<h6 align="center">- Alice no País das Maravilhas</h6>
 
 ---
 ###
