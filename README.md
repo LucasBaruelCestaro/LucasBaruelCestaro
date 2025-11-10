@@ -7,7 +7,8 @@
 ###
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,php,python,flask,cs,java,mysql,mongodb,unity,androidstudio,kotlin,github,git" width="1000"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,php,python,flask,cs" width="400"/>
+  <img src="https://skillicons.dev/icons?i=java,mysql,mongodb,unity,androidstudio,kotlin,github,git" width="400"/>
 </p>
 
 ###
