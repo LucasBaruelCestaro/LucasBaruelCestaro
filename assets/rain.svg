@@ -5,7 +5,7 @@
   preserveAspectRatio="none"
   xmlns="http://www.w3.org/2000/svg"
 >
-  <g fill="#00ff41" font-family="monospace" font-size="14">
+  <g fill="#00ff41" font-family="monospace" font-size="24">
 
     <text x="0" y="-20">1
       <animate attributeName="y" from="-20" to="160" dur="2.13s" begin="-0.37s" repeatCount="indefinite"/>
