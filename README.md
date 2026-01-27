@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="assets/rain.svg" width="100%" />
+    <img src="assets/rain.svg" width="100%" />
 </p>
 
-<h2 align="center">Eu sou o Lucas. Esse é meu GitHub.</h2>
+<br><br>
+
+<div align="center">
+    <code>Desenvolvedor FullStack</code> <code>Técnico em Informática</code>
+</div>
+
