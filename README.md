@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="assets/rain.svg" width="100%" />
-</p>
-
 <h1 align="center">Lucas Baruel Cestaro</h1>
 
 <div align="center">
