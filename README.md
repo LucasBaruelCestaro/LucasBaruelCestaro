@@ -13,7 +13,7 @@
 
 <br>
 
-<h2 align="center">Tecnologias que eu conheço</h2>
+<h2 align="center">Tecnologias que eu uso</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
