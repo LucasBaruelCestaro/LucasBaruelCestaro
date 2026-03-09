@@ -8,7 +8,7 @@
 
 <p align="center">
     Me chamo Lucas e tenho 17 anos. Atualmente curso o 3º ano do ensino médio concomitante com o técnico em informática.
-    Sou apaixonado por tecnologia e estou sempre em busca de novas habilidades e desafiospara evoluir como desenvolvedor.
+    Sou apaixonado por tecnologia e estou sempre em busca de novas habilidades e desafios para evoluir como desenvolvedor.
 </p>
 
 <br>
