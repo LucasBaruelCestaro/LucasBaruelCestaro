@@ -1,7 +1,7 @@
 <h1 align="center">Lucas Baruel Cestaro</h1>
 
 <div align="center">
-    <code>Desenvolvedor FullStack</code> <code>Técnico em Informática</code>
+    <code>Técnico em Informática</code>
 </div>
 
 <br>
