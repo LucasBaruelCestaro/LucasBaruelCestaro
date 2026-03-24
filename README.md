@@ -20,3 +20,15 @@
     <img src="https://skillicons.dev/icons?i=py,cs,mysql,mongodb,js,php" width="300"/>
   </a>
 </p>
+
+<div style="
+  background-image: url('assets/neymar.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 100px 20px;
+  text-align: center;
+  color: white;
+">
+  <h1>teste</h1>
+  <p>mil grau</p>
+</div>
