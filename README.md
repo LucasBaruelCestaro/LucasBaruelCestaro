@@ -22,7 +22,7 @@
 </p>
 
 <div style="
-  background-image: url('assets/neymar.jpg');
+  background-image: url('assets/neymar.png');
   background-size: cover;
   background-position: center;
   padding: 100px 20px;
